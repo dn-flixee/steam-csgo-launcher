@@ -1,6 +1,6 @@
 # Steam Launcher with Customization
 
-This project is a C# application designed to help you launch Steam with a specific Steam ID. It was created before Steam introduced the multi-account switch option, providing an alternative method to launch Steam with different accounts.
+This project is my first C# application designed to help you launch Steam with a specific Steam ID. It was created before Steam introduced the multi-account switch option, providing an alternative method to launch Steam with different accounts.
 
 ## How to Use
 
